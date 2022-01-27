@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-santiagob20",
+  "version": "1.0.0",
+  "description": "randon messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "javascript"
+  ],
+  "author": "Santiago Barrera <santiago.barrera20@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
